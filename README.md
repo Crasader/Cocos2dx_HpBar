@@ -4,4 +4,4 @@ Cocos2d-x 3.14.1でCocos2d-xでHPゲージを実装してみました。使用�
 
 解説はこちら
 
-http://takachan.hatenablog.com/entry/2017/02/15/083000
+https://takap-tech.com/entry/2017/02/15/083000
